@@ -35,6 +35,8 @@ It provides a **dashboard** for quick insights into customer and order data, mak
 
 ---
 Screenshots
+---
+
 <img width="195" height="382" alt="Picture1" src="https://github.com/user-attachments/assets/f042f4f8-664e-4ae5-982f-83c2d1c547e1" />
 <img width="182" height="345" alt="Picture2" src="https://github.com/user-attachments/assets/88e7287c-7c08-4d82-852f-13d2b4ffceac" />
 <img width="189" height="355" alt="Picture3" src="https://github.com/user-attachments/assets/0e53e43d-4235-4ef8-a1c0-7fab7d8dee0f" />
