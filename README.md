@@ -34,12 +34,6 @@ It provides a **dashboard** for quick insights into customer and order data, mak
 - **Development Tools:** Android Studio, GitHub
 
 ---
-
-## 📸 Screenshots
-(Add screenshots of your app here, e.g., home screen, add customer, measurement screen, dashboard)
-
----
-
 ## ⚡ Getting Started
 
 ### 1️⃣ Clone the repository
