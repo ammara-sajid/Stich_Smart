@@ -38,4 +38,4 @@ It provides a **dashboard** for quick insights into customer and order data, mak
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/yourusername/stitch-smart.git
+git clone https://github.com/ammara-sajid/Stich_Smart)
